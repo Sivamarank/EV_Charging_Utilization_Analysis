@@ -68,7 +68,7 @@ df['Session_Duration'] = (df['End_Time'] - df['Start_Time']).dt.total_seconds() 
 ---
 
 ## 📊 Power BI Dashboard
-![Uploading Screenshot 2025-07-05 200304.png…]()
+[![Uploading Screenshot 2025-07-05 200304.png…]()](https://github.com/Sivamarank/EV_Charging_Utilization_Analysis/blob/main/Screenshot%202025-07-05%20200304.png?raw=true)
 
 
 ### ✅ Features:
