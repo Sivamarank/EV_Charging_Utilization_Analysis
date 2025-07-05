@@ -68,7 +68,7 @@ df['Session_Duration'] = (df['End_Time'] - df['Start_Time']).dt.total_seconds() 
 ---
 
 ## 📊 Power BI Dashboard
-![Uploading Screenshot 2025-07-05 200304.png…]()
+(Uploading Screenshot 2025-07-05 200304.png…)
 
 ### ✅ Features:
 
